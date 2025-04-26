@@ -12,7 +12,7 @@ This is a beginner-friendly command-line Healthcare Lab Management System built 
 ---
 
 ## 📁 Project Folder Structure
-
+```
 healthcare-lab-system/
 │
 ├── config/              # DB connection setup using .env
@@ -39,7 +39,7 @@ healthcare-lab-system/
 ├── .env                 # DB credentials (MySQL)
 ├── main.py              # Project entry point
 └── README.md            # You are here!
-
+```
 
 ---
 
